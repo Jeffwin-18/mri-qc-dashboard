@@ -1,0 +1,7 @@
+[server]
+# Max upload size in MB for the ZIP-upload input method.
+# Browser uploads get impractical well before 10GB — for datasets that
+# large, use the "Local folder path" or "Download from Kaggle" input
+# methods instead, which read straight from disk and aren't affected
+# by this setting at all.
+maxUploadSize = 2000
