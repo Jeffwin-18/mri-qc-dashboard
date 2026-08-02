@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MRI QC Dashboard
 
 A Streamlit dashboard for batch quality-control of MRI scans, built around
