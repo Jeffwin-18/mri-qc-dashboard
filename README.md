@@ -163,5 +163,3 @@ information genuinely isn't in the current features).
   path; if you add/change files in that folder, click **"🔄 (Re)scan
   folder"** in the sidebar to force a re-extract.
 =======
-# Automated-AI-Based-Quality-Control-QC-Dashboard-for-MRI-Brain
->>>>>>> 058514d14190351593658017b71621994a2dc6d0
