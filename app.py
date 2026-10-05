@@ -5,6 +5,7 @@ A Streamlit dashboard that scores batches of MRI-derived QC features,
 classifies likely artifacts with an XGBoost model, and produces a
 PASS / REVIEW / FAIL scorecard with drill-down and reporting.
 
+
 Run with:
     streamlit run app.py
 """
