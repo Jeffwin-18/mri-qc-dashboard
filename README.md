@@ -162,4 +162,4 @@ information genuinely isn't in the current features).
 - The local-folder and Kaggle inputs cache extraction results keyed by
   path; if you add/change files in that folder, click **"🔄 (Re)scan
   folder"** in the sidebar to force a re-extract.
-=======
+
